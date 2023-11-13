@@ -1,0 +1,8 @@
+site_name: "kasino"
+site_description: "kasino"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

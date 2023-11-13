@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "kasino"
+  description: "kasino"
+  annotations:
+    github.com/project-slug: techtalk-1123/kasino
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "group:default/guests"
